@@ -53,7 +53,7 @@ The following datasets were used across the notebooks:
 ### ✅ Task 3 – Linear Regression on Housing Data
 -  Dataset: `Housing.csv`
 -  Loaded and prepared the housing dataset for modeling by performing necessary preprocessing
--  split the data into training and test sets to validate model performance
+-  Split the data into training and test sets to validate model performance
 -  Trained a Linear Regression model using scikit-learn to predict housing prices
 -  Assessed the model using error metrics like MAE, MSE, and R² score
 -  Visualized the regression line and interpreted model coefficients to understand the effect of input features
